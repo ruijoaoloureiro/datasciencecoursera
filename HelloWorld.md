@@ -1,6 +1,8 @@
 ---
-title: "Untitled"
-output: html_document
+title: "HelloWorld.md"
+author: "ruijoaoloureiro"
+date: "Wednesday, September 17, 2014"
+output: word_document
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -18,4 +20,3 @@ plot(cars)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-## This is a markdown file
